@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ai-stock-advisor
+    name: AIEquityTool
     env: python
     region: oregon
     plan: free      
