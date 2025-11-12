@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: AIEquityTool
+    name: AIEquityToolLive
     env: python
     region: oregon
     plan: free      
